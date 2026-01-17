@@ -1,2 +1,2 @@
 # WIPs
-All works in progress! To be organized into projects later.
+All works in progress for FNP.
